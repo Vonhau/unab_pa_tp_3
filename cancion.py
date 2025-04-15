@@ -19,4 +19,10 @@ class Cancion:
     def set_autor(self, nuevo_autor):
         self.autor = nuevo_autor
 
+# Prueba
+c1 = Cancion("Monster", "Skillet")
+
+
+
+
 
