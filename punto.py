@@ -22,6 +22,9 @@ class Punto():
 
     def set_y(self, y):
         self._y = y
+        
+    def opuesto(self):
+        return Punto(-self.x, -self.y)
 
     def __str__(self):
         return f"X: {self.get_x()}\nY: {self.get_y()}"
