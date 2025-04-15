@@ -1,8 +1,8 @@
 class Cancion:
-  """ 
-  La clase *Cancion* representa una canción con un título y un autor. 
-  Que permite obtener y modificar estos valores mediante métodos específicos.
-  """
+    """ 
+    La clase *Cancion* representa una canción con un título y un autor. 
+    Que permite obtener y modificar estos valores mediante métodos específicos.
+    """
     def __init__(self, titulo, autor):
         self.titulo = titulo
         self.autor = autor
@@ -21,6 +21,12 @@ class Cancion:
 
 # Prueba
 c1 = Cancion("Monster", "Skillet")
+
+print("Título:", c1.get_titulo(), "Autor:", c1.get_autor())
+
+#Realizamos el cambio
+print(c1.set_titulo("Custer"), "|", c1.set_autor("Slipknot"))
+
 
 
 
