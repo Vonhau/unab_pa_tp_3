@@ -25,7 +25,9 @@ c1 = Cancion("Monster", "Skillet")
 print("Título:", c1.get_titulo(), "Autor:", c1.get_autor())
 
 #Realizamos el cambio
-print(c1.set_titulo("Custer"), "|", c1.set_autor("Slipknot"))
+c1.set_titulo("Custer")
+c1.set_autor("Slipknot")
+print("Título:", c1.get_titulo(), "Autor:", c1.get_autor())
 
 
 
