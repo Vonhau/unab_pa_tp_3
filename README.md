@@ -1,4 +1,4 @@
-El presente taller tiene como objetivo que los estudiantes puedan:
+El presente taller tiene como objetivo que los estudiantes puedan...
 
  ● 1. Entender y comprender ejercicios prácticos.
  
@@ -14,7 +14,8 @@ El presente taller tiene como objetivo que los estudiantes puedan:
 
 - - - - - -
 
-Participantes:
+Participantes - Formas de Contacto
+
 1 - Joaquin Teixido "Vonhau" - joateixido15@gmail.com
 
 1 - Cassian Ochoa - 
