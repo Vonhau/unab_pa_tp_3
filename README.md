@@ -18,8 +18,8 @@ Participantes - Formas de Contacto
 
  ● 1 - Joaquin Teixido "Vonhau" - joateixido15@gmail.com
 
- ● 2 - Cassian Ochoa - 
+ ● 2 - Cassian Ochoa -
 
- ● 3 - Santiago Bruno -
+ ● 3 - Santiago Bruno - "senshi-afk" - santiagodanielbruno@gmail.com
 
  ● 4 - Franco Torres -
