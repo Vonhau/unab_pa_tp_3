@@ -16,8 +16,8 @@ El presente taller tiene como objetivo que los estudiantes puedan...
 
 Participantes - Formas de Contacto
 
-1 - Joaquin Teixido "Vonhau" - joateixido15@gmail.com
+ ● 1 - Joaquin Teixido "Vonhau" - joateixido15@gmail.com
 
-1 - Cassian Ochoa - 
+ ● 2 - Cassian Ochoa - 
 
-1 - Santiago Bruno -
+ ● 3 - Santiago Bruno -
