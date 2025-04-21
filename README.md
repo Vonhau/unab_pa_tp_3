@@ -20,6 +20,6 @@ Participantes - Formas de Contacto
 
  ● 2 - Cassian Ochoa "C4SS1n0"- ochoacassian@gmail.com 
 
- ● 3 - Santiago Bruno - "senshi-afk" - santiagodanielbruno@gmail.com
+ ● 3 - Santiago Bruno "senshi-afk" - santiagodanielbruno@gmail.com
 
  ● 4 - Franco Torres -
