@@ -6,3 +6,10 @@ El presente taller tiene como objetivo que los estudiantes puedan:
  ● 4. Manejo de programación básica en Python 3.
  ● 5. Manejo de conceptos vinculados a POO.
  ● 6. Manejo básico de Git y GitHub (crear repositorio y subir archivos).
+
+- - - - - -
+
+Participantes:
+1 - Joaquin Teixido "Vonhau" - joateixido15@gmail.com
+1 - Cassian Ochoa - 
+1 - Santiago Bruno -
