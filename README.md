@@ -22,4 +22,4 @@ Participantes - Formas de Contacto
 
  ● 3 - Santiago Bruno "senshi-afk" - santiagodanielbruno@gmail.com
 
- ● 4 - Franco Torres -
+ ● 4 - Franco Torres - "shafran10" - torresfranco771@gmail.com
